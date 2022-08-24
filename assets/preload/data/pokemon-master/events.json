@@ -1,0 +1,149 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "red",
+		"player3": null,
+		"events": [
+			[
+				41739.1304347826,
+				[
+					[
+						"Change Character",
+						"0",
+						"pixel-bf"
+					]
+				]
+			],
+			[
+				41820.6521739131,
+				[
+					[
+						"Change Character",
+						"1",
+						"pixel-red"
+					]
+				]
+			],
+			[
+				46956.5217391305,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf"
+					]
+				]
+			],
+			[
+				46956.5217391305,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47038.0434782609,
+				[
+					[
+						"Change Character",
+						"1",
+						"red"
+					]
+				]
+			],
+			[
+				52173.9130434783,
+				[
+					[
+						"Change Character",
+						"1",
+						"pixel-red"
+					]
+				]
+			],
+			[
+				52173.9130434783,
+				[
+					[
+						"Change Character",
+						"0",
+						"pixel-bf"
+					]
+				]
+			],
+			[
+				57391.3043478261,
+				[
+					[
+						"Change Character",
+						"1",
+						"red"
+					]
+				]
+			],
+			[
+				57472.8260869566,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf"
+					]
+				]
+			],
+			[
+				86086.9565217393,
+				[
+					[
+						"Change Character",
+						"1",
+						"pixel-red"
+					]
+				]
+			],
+			[
+				86168.4782608697,
+				[
+					[
+						"Change Character",
+						"0",
+						"pixel-bf"
+					]
+				]
+			],
+			[
+				104347.826086957,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf"
+					]
+				]
+			],
+			[
+				104347.826086957,
+				[
+					[
+						"Change Character",
+						"1",
+						"red"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 184,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Pokemon Master"
+	}
+}
